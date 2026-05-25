@@ -18,7 +18,7 @@
 
 ## 📜 Descrição do Projeto
 
-Inclua aqui uma descrição detalhada do projeto. Explique o problema abordado, a solução proposta e os principais componentes do sistema (hardware e software). Inclua um [vídeo demonstrativo](#).
+Inclua aqui uma descrição detalhada do projeto. Explique o método, suas fontes e uma breve conclusão a respeito do review produzido.
 
 ## 📁 Estrutura de Pastas
 
