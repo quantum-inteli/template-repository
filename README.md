@@ -28,12 +28,12 @@ A estrutura do repositório está organizada da seguinte forma:
 template
 ├── algoritmos 
 │   ├──  algoritmos.py
+├── assets 
+│   ├──  Quantum_logo_escuro.jpeg
 ├── docs     
 │   ├── guia_de_instalacao.md   
 ├── reviews
-│   ├── seu_review.md                          
-├── .gitattributes    
-├── .gitignore        
+│   ├── seu_review.md                                
 ├── LICENSE           
 └── README.md         
 ```
