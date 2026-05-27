@@ -1,0 +1,1 @@
+códigos de preparação e algoritmos utilizados

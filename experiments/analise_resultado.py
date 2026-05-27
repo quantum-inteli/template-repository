@@ -1,0 +1,1 @@
+# análises de resultados e comparações técnicas
