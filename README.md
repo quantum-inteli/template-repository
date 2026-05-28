@@ -25,8 +25,8 @@ Inclua aqui uma descrição detalhada do projeto. Explique o método, suas fonte
 A estrutura do repositório está organizada da seguinte forma:
 
 ```
-template
-├── algoritmos 
+template-repository
+├──  
 │   ├──  algoritmos.py
 ├── assets 
 │   ├──  Quantum_logo_escuro.jpeg
